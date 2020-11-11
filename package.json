@@ -1,0 +1,12 @@
+{
+  "name": "apollo.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome save-contacts.js --skip-js-errors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
